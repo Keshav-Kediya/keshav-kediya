@@ -1,9 +1,5 @@
-<h1>Hi there 👋</h1> 
-
-<picture> 
-  
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" /> 
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  
-  <img alt="Keshav-Kediya's GitHub profile" src="dark_mode.svg" /> </picture>
+  <img alt="keshav-kediya's GitHub profile" src="dark_mode.svg" />
+</picture>
